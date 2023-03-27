@@ -8,3 +8,6 @@ one more edit here.......!
 
 
 extra pull of data  is available
+This repository is built step by step in the tutorial. 
+editing readme through github.
+one more edit here.......!
